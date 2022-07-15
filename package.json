@@ -22,7 +22,7 @@
   "license": "ISC",
   "dependencies": {
     "playwright": "^1.8.0",
-    "commander": "^7.0.0",
+    "commander": "^8.3.0",
     "got": "^11.8.1",
     "js-beautify": "^1.13.4",
     "mkdirp": "^1.0.4",
